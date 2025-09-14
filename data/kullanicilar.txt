@@ -1,0 +1,3 @@
+Dila,0000,true
+Mehmet,4321,false
+Ayse,1234,false
