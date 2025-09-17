@@ -33,7 +33,7 @@ Bu proje, **Java** programlama dili ve **Nesne Yönelimli Programlama (OOP)** pr
 - [ATM Proje Raporu (PDF)](docs/atmprojeraporu.pdf)  
 - [UML Diyagramı (PDF)](docs/UML.pdf)  
 - UML diyagram görseli:  
-  ![UML Diyagramı](docs/uml.jpg)  
+  ![UML Diyagramı](resources/uml.jpg)  
 
 ## 🚀 Çalıştırma
 1. Projeyi klonlayın:  
@@ -77,7 +77,7 @@ This project is an **ATM Simulation System** developed using the **Java programm
 - [ATM Project Report (PDF)](docs/atmprojeraporu.pdf)  
 - [UML Diagram (PDF)](docs/UML.pdf)  
 - UML diagram image:  
-  ![UML Diagram](docs/uml.jpg)  
+  ![UML Diagram](resources/uml.jpg)  
 
 ## 🚀 How to Run
 1. Clone the repository:  
